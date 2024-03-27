@@ -6,6 +6,8 @@ This project analyzes Bitcoin's price movements leading up to the anticipated 20
 
 If you find this project useful, kindly consider giving it a star ⭐ on GitHub. Contributions are also welcome!
 
+![BTC over time high to low](https://github.com/nafisalawalidris/Bitcoin-Price-Analysis-Before-the-2024-Halving/blob/main/BTC%20over%20time%20high%20to%20low.png)
+
 ## Table of Contents
 
 - [Introduction](#bitcoin-price-analysis-before-the-2024-halving)
