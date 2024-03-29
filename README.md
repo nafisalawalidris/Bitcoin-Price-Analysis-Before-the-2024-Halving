@@ -2,7 +2,7 @@
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-Price%20Analysis-blue)
 
-This project analyzes Bitcoin's price movements leading up to the anticipated 2024 halving event. It encompasses various steps, including data collection, preprocessing, exploratory data analysis (EDA), model selection, training, evaluation, predictive analysis, fine-tuning, monitoring, and updating.
+This project analyses Bitcoin's price movements leading up to the anticipated 2024 halving event. It encompasses various steps, including data collection, preprocessing, exploratory data analysis (EDA), model selection, training, evaluation, predictive analysis, fine-tuning, monitoring and updating.
 
 If you find this project useful, kindly consider giving it a star ⭐ on GitHub. Contributions are also welcome!
 
