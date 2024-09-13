@@ -1,0 +1,38 @@
+# Virtual environment
+BTC_Analysis_Halving/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution and packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Dependency directories
+venv/
+ENV/
+env/
+venv.bak/
+
+# Windows
+Thumbs.db
