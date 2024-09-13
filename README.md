@@ -10,14 +10,14 @@ If you find this project useful, kindly consider giving it a star ⭐ on GitHub.
 
 ## Table of Contents
 
-- [Introduction](#bitcoin-price-analysis-before-the-2024-halving)
+- [Introduction](#introduction)
 - [Key Steps](#key-steps)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
-<<<<<<< HEAD
 ## Introduction
+
 This project focuses on analysing Bitcoin's price trends and movements as we approach the 2024 halving event. By leveraging historical data and advanced modeling techniques, we aim to provide insights into potential price behaviors and market trends.
 
 ## Key Steps
@@ -34,24 +34,7 @@ This project focuses on analysing Bitcoin's price trends and movements as we app
 
 ## Contributing
 
-Contributions are highly valued! If you have suggestions or improvements, please open an issue or submit a pull request. Your input helps enhance the project.
-=======
-## Key Steps
-
-1. [Data Collection](#data-collection)
-2. [Data Preprocessing](#data-preprocessing)
-3. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-4. [Model Selection](#model-selection)
-5. [Model Training](#model-training)
-6. [Model Evaluation](#model-evaluation)
-7. [Predictive Analysis](#predictive-analysis)
-8. [Fine-Tuning](#fine-tuning)
-9. [Monitoring and Updating](#monitoring-and-updating)
-
-## Contributing
-
 Contributions are welcome! Feel free to open an issue or submit a pull request.
->>>>>>> f91f21e55c5b9a102ec3c3c9bb569dfc20e68beb
 
 ## License
 
@@ -59,8 +42,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-<<<<<<< HEAD
-For any inquiries or suggestions, feel free to contact [Nafisa Lawal Idris](https://github.com/nafisalawalidris).
-=======
 For any inquiries or suggestions, please contact [Nafisa Lawal Idris](https://github.com/nafisalawalidris).
->>>>>>> f91f21e55c5b9a102ec3c3c9bb569dfc20e68beb

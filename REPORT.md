@@ -1,7 +1,7 @@
 # Bitcoin Price Analysis Before the 2024 Halving
 
 ## Introduction
-In this project, we analyse Bitcoin prices to forecast trends leading up to the 2024 halving event. The halving event, occurring approximately every four years, historically influences Bitcoin's price. This analysis aims to provide insights into potential price movements and market sentiment before and after this significant event.
+In this project, we analyse Bitcoin prices to forecast trends leading up to the 2024 halving event. The halving event occurring approximately every four years, historically influences Bitcoin's price. This analysis aims to provide insights into potential price movements and market sentiment before and after this significant event.
 
 ## Data Exploration
 The dataset used includes historical Bitcoin prices, volumes and market caps. Key statistics and visualisations are provided below to illustrate the data's behavior and trends.

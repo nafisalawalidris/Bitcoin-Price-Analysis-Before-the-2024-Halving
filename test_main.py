@@ -17,3 +17,4 @@ def test_load_data(temp_csv_file):
     df = load_data(temp_csv_file)
     assert isinstance(df, pd.DataFrame)
     assert not df.empty
+
